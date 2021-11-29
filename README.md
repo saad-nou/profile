@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prince-of-prawns
-- 👀 I’m interested in competitive coding (as of now)
-- 🌱 I’m currently learning c++,java,python
+- 👀 I’m interested in coding (as of now)
+- 🌱 I’m currently learning Btech-computer science and engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
