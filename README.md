@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prince-of-prawns
+- 👋 Hi, I’m saad
 - 👀 I’m interested in coding (as of now)
 - 🌱 I’m currently learning Btech-computer science and engineering
 - 💞️ I’m looking to collaborate on ...
